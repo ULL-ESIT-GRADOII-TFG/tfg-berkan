@@ -6,4 +6,4 @@
 
    - Comenzaremos desarrollando un script básico en la command line para la funcionalidad de evaluación usando la metodologa descrita en [Jacob Fiksel (Biostatiscs Johns Hopkins College) Methodology for Grading Assignments](https://ull-pfpdi-github-1718.github.io/_book/automated-gradingevaluacion-automatica.html)
    - La forma en la que se evalúan  los repos de la asignación GitHub Classroom sigue la idea descrita en [Idea:submodule](https://ull-esit-gradoii-tfg.github.io/tfg-ideas/_book/submodule.html) mediante la creación de un *super repo*
-  - Extensión de la metodología: comunicar los resultados de la evaluación mediante incidencias ademas de la subida de un fichero
+   - Extensión de la metodología: comunicar los resultados de la evaluación mediante incidencias ademas de la subida de un fichero
