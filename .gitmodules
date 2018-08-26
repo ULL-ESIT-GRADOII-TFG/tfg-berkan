@@ -1,3 +1,6 @@
 [submodule "software"]
 	path = software
 	url = git@github.com:ULL-ESIT-GRADOII-TFG/tfg-berkan-software.git
+[submodule "memoria"]
+	path = memoria
+	url = git@github.com:ULL-ESIT-GRADOII-TFG/tfg-berkan-memoria.git
